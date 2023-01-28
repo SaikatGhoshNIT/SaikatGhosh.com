@@ -2,3 +2,11 @@
     margin: 0;
     padding: 0;
 }
+#a {
+    height: fit-content;
+    width: fit-content;   
+}
+#c{
+    height: 670px;
+    width: 1000px;
+}
