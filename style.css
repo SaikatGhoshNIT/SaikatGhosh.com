@@ -10,3 +10,10 @@
     height: 670px;
     width: 1000px;
 }
+#g{
+    color: rgb(245, 115, 15);
+}
+.mb{
+    margin: 5px;
+    padding: 10px;
+}
