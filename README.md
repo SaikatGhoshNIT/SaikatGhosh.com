@@ -1,1 +1,1 @@
-My personal portfolio in making.
+My First GitHub exercise, from LevelOne of NeoG.camp.
