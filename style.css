@@ -4,7 +4,9 @@
 }
 #a {
     height: fit-content;
-    width: fit-content;   
+    width: fit-content; 
+    margin-left: auto;  
+    margin-right: auto;
 }
 #c{
     height: 670px;
@@ -16,4 +18,8 @@
 .mb{
     margin: 5px;
     padding: 10px;
+}
+#h{
+    margin-left: auto;
+    margin-right: auto;
 }
